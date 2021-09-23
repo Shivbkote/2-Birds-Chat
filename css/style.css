@@ -23,12 +23,12 @@
 }
 .logo{
     width: 91px;
+    height: 68px;
     position: absolute;
     top: 1%;
     left: 1%;
-    border-radius: 66%;
+    border-radius: 360px;
     padding: 0px;
-    margin:auto;
     
 }
 .barrer img{
