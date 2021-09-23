@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Rubik+Beastly&display=swap');
 *{
     padding: 1px;
     margin: 0;
@@ -38,7 +39,8 @@
 .banner-text{
     text-align: center;
     color: #fff;
-    padding-top: 180px ;
+    padding-top: 160px ;
+     font-family: 'Kaushan Script', cursive;
 }
 .banner-text h1{
     font-size: 100px;
